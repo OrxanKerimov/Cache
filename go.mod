@@ -1,3 +1,3 @@
-module awesomeProject
+module modules
 
 go 1.19

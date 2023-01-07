@@ -1,8 +1,8 @@
 package main
 
 import (
-	"awesomeProject/Cache/in-memory-cache"
 	"fmt"
+	cache "module/in-memory-cache"
 )
 
 func main() {
