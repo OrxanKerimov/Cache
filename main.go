@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	cache "module/in-memory-cache"
+	cache "modules/in-memory-cache"
 )
 
 func main() {
