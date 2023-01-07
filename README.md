@@ -9,7 +9,7 @@ Package for processing and creating a cache
   Delete(key string) error
 ```
 ```shell
-go get -u -v  https://github.com/OrxanKerimov/Cache_go
+go get -u -v  https://github.com/OrxanKerimov/Cache
 ```
 ___
 
@@ -20,7 +20,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/OrxanKerimov/Cache_go/cache"
+	"github.com/OrxanKerimov/Cache/cache"
 )
 
 func main() {
